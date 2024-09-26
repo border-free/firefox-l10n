@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Borderfree
+borderfree-updater-new-version-notification = 新版本可用。
+borderfree-updater-new-update-button = 立即更新
 
 ## The main browser window's title
 
