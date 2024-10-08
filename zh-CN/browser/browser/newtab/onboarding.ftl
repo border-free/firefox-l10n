@@ -334,6 +334,21 @@ amo-picker-collection-link = 探索更多附加组件
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = 我们乐于为您护航
 onboarding-easy-setup-security-and-privacy-subtitle = 这款由非营利组织支持的浏览器会自动阻止大公司在网上偷偷跟踪您。
+
+# Borderfree Easy setup screen
+bf-onboarding-easy-setup-subtitle = 🔥 免设置，免注册，安装即用 <br/> 🔥 安全，匿名，隐私 <br/> 🔥 无广告，无病毒， <br/> 🔥 3万扩展功能插件 <br/> 🔥 ChatGPT4.0 <br/> 🔥 IPFS无缝接入
+
+bf-onboarding-bind-email-submit-btn = 提交
+bf-onboarding-bind-email-secondary-text = 绑定邮箱可获得更多最新信息
+
+bf-onboarding-addons-title = 推荐功能插件：
+bf-onboarding-addons-btn = 安装并继续
+bf-onboarding-addons-text = 您还可以在安装后添加更多插件
+
+bf-onboarding-invitation-title = 如果您有好友邀请，点击完成邀请，您和好友都可获得平台奖励。
+bf-onboarding-invitation-subtitle = 如果提示未能完成邀请，也可以在安装好浏览器后，打开会员中心直接填写邀请您的好友ID来完成邀请绑定。 <br/> 完成会员绑定后，可在会员中心查看您收到的奖励。
+bf-onboarding-complete-invitation-btn = 完成邀请
+
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = 在设备间流转，数据照样密不透风
 onboarding-mobile-download-security-and-privacy-subtitle = { -brand-short-name } 可将密码、书签等数据加密同步，您还可在其他设备上接收标签页。
