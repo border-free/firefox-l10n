@@ -338,7 +338,10 @@ onboarding-easy-setup-security-and-privacy-subtitle = 这款由非营利组织�
 # Borderfree Easy setup screen
 bf-onboarding-easy-setup-subtitle = 🔥 免设置，免注册，安装即用 <br/> 🔥 安全，匿名，隐私 <br/> 🔥 无广告，无病毒， <br/> 🔥 3万扩展功能插件 <br/> 🔥 ChatGPT4.0 <br/> 🔥 IPFS无缝接入
 
-bf-onboarding-bind-email-submit-btn = 提交
+bf-onboarding-bind-email-code-text = 验证码
+bf-onboarding-bind-email-send-code-btn = 发送验证码
+bf-onboarding-bind-email-submit-btn = 绑定
+bf-onboarding-bind-email-loading-btn = 正在绑定...
 bf-onboarding-bind-email-secondary-text = 绑定邮箱可获得更多最新信息
 
 bf-onboarding-addons-title = 推荐功能插件：
