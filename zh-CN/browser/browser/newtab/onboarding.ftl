@@ -337,6 +337,7 @@ onboarding-easy-setup-security-and-privacy-subtitle = 这款由非营利组织�
 
 # Borderfree Easy setup screen
 bf-onboarding-easy-setup-subtitle = 🔥 免设置，免注册，安装即用 <br/> 🔥 安全，匿名，隐私 <br/> 🔥 无广告，无病毒， <br/> 🔥 3万扩展功能插件 <br/> 🔥 ChatGPT4.0 <br/> 🔥 IPFS无缝接入
+bf-onboarding-easy-setup-skip-and-start = 跳过并开始上网冲浪
 
 bf-onboarding-bind-email-code-text = 验证码
 bf-onboarding-bind-email-send-code-btn = 发送验证码
@@ -345,11 +346,12 @@ bf-onboarding-bind-email-loading-btn = 正在绑定...
 bf-onboarding-bind-email-secondary-text = 绑定邮箱可获得更多最新信息
 
 bf-onboarding-addons-title = 推荐功能插件：
-bf-onboarding-addons-btn = 安装并继续
+bf-onboarding-addons-btn = 安装并开始上网冲浪
+bf-onboarding-addons-installing-btn = 正在安装...
 bf-onboarding-addons-text = 您还可以在安装后添加更多插件
 
-bf-onboarding-invitation-title = 如果您有好友邀请，点击完成邀请，您和好友都可获得平台奖励。
-bf-onboarding-invitation-subtitle = 如果提示未能完成邀请，也可以在安装好浏览器后，打开会员中心直接填写邀请您的好友ID来完成邀请绑定。 <br/> 完成会员绑定后，可在会员中心查看您收到的奖励。
+bf-onboarding-invitation-title = 如果您是受邀下载的，请点击完成邀请，您和好友都可获得平台奖励。
+bf-onboarding-invitation-subtitle = 如果提示未能完成邀请，也可以在安装好浏览器后，打开会员中心直接填写邀请您的好友ID来完成邀请绑定。 <br/> 完成会员绑定12小时后，可在会员中心查看您收到的奖励。
 bf-onboarding-complete-invitation-btn = 完成邀请
 
 # Mobile download screen
